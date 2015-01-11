@@ -1,0 +1,41 @@
+{
+  "name": "album",
+  "version": "0.1.14",
+  "description": "View the current working directory in browser",
+  "main": "app.js",
+  "bin": {
+    "album": "./bin/album"
+  },
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": {
+    "name": "Jade"
+  },
+  "license": "MIT",
+  "_id": "album@0.1.14",
+  "_shasum": "7717d8f1b3c8b25d765edd6c4a2b2407aebbfb19",
+  "_from": "album@",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "lucifier129",
+    "email": "guyingjie129@163.com"
+  },
+  "maintainers": [
+    {
+      "name": "lucifier129",
+      "email": "guyingjie129@163.com"
+    }
+  ],
+  "dist": {
+    "shasum": "7717d8f1b3c8b25d765edd6c4a2b2407aebbfb19",
+    "tarball": "http://registry.npmjs.org/album/-/album-0.1.14.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/album/-/album-0.1.14.tgz"
+}
