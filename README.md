@@ -4,7 +4,7 @@ View the current directory in browser
 
 ## install
 ```
-npm install album
+npm install -g album
 ```
 
 ##usage
